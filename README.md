@@ -1,2 +1,0 @@
-# cracc
-Created with CodeSandbox
